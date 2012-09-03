@@ -1,0 +1,4 @@
+﻿v11 夢の吹く草原 http://www.hmix.net/music_gallery/feeling/sadness.htm
+bgm_gameover_1 ゲームオーバー_1 http://www.skipmore.com/sound/index_03.html
+game_maoudamashii_7_event47 イベント47 http://maoudamashii.jokersounds.com/list/game13.html
+game_maoudamashii_7_event38 イベント38
